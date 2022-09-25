@@ -1,4 +1,4 @@
-# Cow Face Detection01 > 2022-09-22 8:06am
+# Cow Face Detection01 > arunv1
 https://universe.roboflow.com/object-detection/cow-face-detection01
 
 Provided by Roboflow
